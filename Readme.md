@@ -1,0 +1,1 @@
+thiet lap tren may tinh cuc bo
