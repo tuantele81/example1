@@ -1,2 +1,2 @@
 thu nghiem tren may tinh cuc bo
-chinh sua tren pi
+chinh sua trong visual studio code
